@@ -105,6 +105,11 @@ case "$1" in
 	repo_sync nexus-5-l
 	;;
 
+"mate2-l")
+	echo DEVICE=mt2 >> .tmp-config &&
+	repo_sync mate2-l
+	;;
+
 "nexus-s")
 	echo DEVICE=crespo >> .tmp-config &&
 	repo_sync $1
