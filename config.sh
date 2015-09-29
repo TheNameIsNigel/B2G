@@ -207,6 +207,7 @@ case "$1" in
 	echo - nexus-4-kk
 	echo - nexus-5
 	echo - nexus-5-l
+	echo - mate2-l "(Huawei Ascend Mate2)"
 	echo - nexus-s
 	echo - nexus-s-4g
 	echo - flo "(Nexus 7 2013)"
